@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518637880438",
+    "project_id": "skicancer",
+    "storage_bucket": "skicancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518637880438:android:7723de8a7e704fb212cb57",
+        "android_client_info": {
+          "package_name": "com.example.home_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518637880438-q2tb9pnn0br6vjpd5srbeslivih3kvnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_page",
+            "certificate_hash": "0033bcd0f5aa57638ea738a7c4d19534fd5a1691"
+          }
+        },
+        {
+          "client_id": "518637880438-b6tshimov7k96m4dfqn4n6uqmesgj9n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfZGNrUTGbi9wZCg-14gzT0nVQX_LPk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518637880438-b6tshimov7k96m4dfqn4n6uqmesgj9n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

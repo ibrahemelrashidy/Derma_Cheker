@@ -1,0 +1,1621 @@
+{
+"docdata":[
+  {
+    "name": "Kamaria ElBanna",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa1c214887e796452/Profile/150/kamaria-elbanna-dermatology_20220112133031604.jpg",
+    "specialization": "Dermatology, Cosmetology and laser specialist",
+    "address": "El-Mohandessin : Abdel Hamid Lotfi Street, off Al-Batal Ahmed Abdel Aziz Street",
+    "fees": "300"
+  },
+  {
+    "name": "Samar Hossam Omar",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5f7c62a18d8ecea6/Profile/150/samar--hossam-omar-dermatology_20221101002049872.jpg",
+    "specialization": "Dermatologist &Aesthetic medicine specialist.",
+    "address": "El-Dokki : micheel bakhoum",
+    "fees": "400"
+  },
+  {
+    "name": "Mohamed ElSayed Hassan",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT36a6c1/Profile/150/doctor-mohamed-elsayed-hassan-dermatology_20201231013909649.jpg",
+    "specialization": "Consultant of Dermatology , Andrology Cosmetic Dermatology and Laser - MD. Dermatology and Andrology",
+    "address": "Faisal : King Faisal",
+    "fees": "200"
+  },
+  {
+    "name": "Hani ElZamzamy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT917bd0/Profile/150/doctor-hani-elzamzamy-dermatology-1_20200706231346982.jpg",
+    "specialization": "Consultant in Dermatology and Andrology",
+    "address": "Faisal : Abo Tamam st.",
+    "fees": "200"
+  },
+  {
+    "name": "Adel Youssuf",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT85df4d/Profile/150/doctor-adel-youssuf-dermatology_20180505144831329.jpg",
+    "specialization": "Consultant Dermatology&Venereology.                                        Consultant LASER and Aesthetic medicine",
+    "address": "Assiut city :  july 26 st.",
+    "fees": "210"
+  },
+  {
+    "name": "Hany Khalil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT258f02/Profile/150/doctor-hany-khalil-dermatology_20201020154132979.jpg",
+    "specialization": "Consultant in dermatology, Cosmetic Dermatology, Andrology ,stds",
+    "address": "Faisal : king Faisal St -tamimi",
+    "fees": "400"
+  },
+  {
+    "name": "Ereny El Amir",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT227160/Profile/150/doctor-ereny--el-amir-dermatology_20190722021018474.jpg",
+    "specialization": "Dermatology And Aethetic Consultant",
+    "address": "Faisal : King Faisal Street",
+    "fees": "250"
+  },
+  {
+    "name": "Eltaher Attia",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT2b62c8/Profile/150/doctor-eltaher-attia-dermatology_20201208211600021.jpg",
+    "specialization": "Senior consultant in dermatology",
+    "address": "Faisal : faisal st",
+    "fees": "300"
+  },
+  {
+    "name": "Wahid Lotfi",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa48b341f35ce5a38/Profile/150/doctor-wahid-lotfi-dermatology_20221201202845085.jpg",
+    "specialization": "Consultant of dermatology, cosmetology, laser, venereal diseases, andrology and infertility",
+    "address": "El-Sheikh Zayed : midipoint",
+    "fees": "350"
+  },
+  {
+    "name": "Ehab wadih",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfd062b/Profile/150/doctor-ehab-wadih-dermatology_20210529002504231.jpg",
+    "specialization": "Consultant of Dermatology and Infertility",
+    "address": "Moharam Bek : moharm bek st",
+    "fees": "150"
+  },
+  {
+    "name": "Elsayed Gomaa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8e68ce/Profile/150/doctor-elsayed--gomaa-dermatology_20200706004226033.jpg",
+    "specialization": "Consultant of Dermatology Laser and Andrology",
+    "address": "Esna : Bahr street",
+    "fees": "100"
+  },
+  {
+    "name": "amal mansour",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT19aaae1ec90642e3/Profile/150/amal-mansour-dermatology_20220811184142066.jpg",
+    "specialization": "Consultant of dermatology, cosmetology and laser, Ain Shams University",
+    "address": "Shoubra : 212 Shubra Street, above Buffalo Burger, El Khalfawy",
+    "fees": "150"
+  },
+  {
+    "name": "Shorok Elmnawy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd2f214937712a7eb/Profile/150/specialist-shorok-elmnawy-dermatology_20230211172341073.jpg",
+    "specialization": "Dermatology specialist",
+    "address": "Faisal : eshreen street",
+    "fees": "200"
+  },
+  {
+    "name": "Mohamed Soleit",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf01517/Profile/150/doctor-mohamed-soleit-dermatology-1_20221206231453899.jpg",
+    "specialization": "PhD of Dermatology, Androlology and Laser",
+    "address": "New Cairo : Northern ninety",
+    "fees": "500"
+  },
+  {
+    "name": "Noha Samir",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8a80ae/Profile/150/doctor-noha-samir-dermatology_20201113172643940.jpg",
+    "specialization": "Dermatology and aethetic medicine and laser specialist",
+    "address": "New Cairo : North 90",
+    "fees": "350"
+  },
+  {
+    "name": "Ayman Abdel Fattah",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4a6992/Profile/150/doctor-ayman-abdel-fattah-dermatology_20210922105014930.jpg",
+    "specialization": "Dermatologist, Andrologist",
+    "address": "10th of Ramadan : ammar bin yasser",
+    "fees": "150"
+  },
+  {
+    "name": "Sherif Shokry",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT40abd73b532bd405/Profile/150/doctor-sherif-shokry-dermatology_20230201230652175.jpg",
+    "specialization": "Professor of Dermatology and Venereology - Faculty of Medicine - Minia University",
+    "address": "El-Rehab : Medical Center 1-behind banks complex",
+    "fees": "400"
+  },
+  {
+    "name": "Nehal Rezk",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT841e6f/Profile/150/doctor-nehal-rezk-dermatology_20221204031233923.jpg",
+    "specialization": "Specialist of Dermatology , Cosmetic  dermatology and Laser",
+    "address": "Ain Shams : Gesr Suez street  - alf maskan square",
+    "fees": "250"
+  },
+  {
+    "name": "Alaa Hilmy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT48c2d35557081c0d/Profile/150/doctor-alaa-hilmy-dermatology_20210925102828132.jpg",
+    "specialization": "Specialist of Dermatology , Cosmetic derma and Laser",
+    "address": "6th of October : Mehwar Elmarkzy",
+    "fees": "350"
+  },
+  {
+    "name": "Andrew Raafat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT73135f/Profile/150/doctor-andrew-raafat-dermatology_20221018201414395.jpg",
+    "specialization": "Dermatology,Andrology,Cosmotology Specialist",
+    "address": "El-Mokattam : Baron City",
+    "fees": "300"
+  },
+  {
+    "name": "Nihal Salem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4620feff8e565c28/Profile/150/nihal--salem-dermatology_20221117133431750.jpg",
+    "specialization": "Specialist of Cosmetic Dermatology",
+    "address": "Hadayek El-Ahram : G, Hadeeq Al-Ahram, entrance to the first gate, first floor after the ground floor, Giza",
+    "fees": "200"
+  },
+  {
+    "name": "Ahmed Samir",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7718daeb0a69760b/Profile/150/ahmed--samir--dermatology_20210912141046290.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "6th of October : 6 october",
+    "fees": "200"
+  },
+  {
+    "name": "Rham Fazaa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT9af0ed9e059c4e30/Profile/150/rham-fazaa-dermatology_20220323182852239.jpg",
+    "specialization": "Specialist of Dermatology and Andrology",
+    "address": "6th of October : 6 october",
+    "fees": "150"
+  },
+  {
+    "name": "Mohamed El Gendy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfc9bc16ccba582ec/Profile/150/mohamed-el-gendy-dermatology_20210307135740608.jpg",
+    "specialization": "Specialist  of Dermatology",
+    "address": "6th of October : 6 october",
+    "fees": "150"
+  },
+  {
+    "name": "Nahid Hussein",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf75ee9b10d2880fd/Profile/150/nahid-hussein-dermatology_20210916144316728.jpg",
+    "specialization": "Consultant of dermatology and genital",
+    "address": "6th of October : 6 october",
+    "fees": "200"
+  },
+  {
+    "name": "Andrew Rafaat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT929b00e21f163952/Profile/150/doctor-andrew-rafaat-dermatology_20220728230846514.jpg",
+    "specialization": "Specialist of Dermatology, Cosmetology and Andrology",
+    "address": "El-Maadi :  Maadi Ring Road",
+    "fees": "300"
+  },
+  {
+    "name": "Mahmoud Medhat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8ee759/Profile/150/doctor-mahmoud-medhat-dermatology_20200610130138313.jpg",
+    "specialization": "Specialist of Dermatology, Venereal and Cosmetics",
+    "address": "El-Zagazig : ElMontazah",
+    "fees": "100"
+  },
+  {
+    "name": "Ahmed Orabi",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT85085b/Profile/150/doctor-ahmed-orabi-dermatology_20200513140238306.jpg",
+    "specialization": "Specialist of Dermatology, Andrology, Cosmetic Dermatology and Laser- Al Azhar University",
+    "address": "Dar El-Salam : Abdelhamid Mekky Street",
+    "fees": "100"
+  },
+  {
+    "name": "Doaa Hussein",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcb2a5ae185fece2d/Profile/150/doaa-hussein-dermatology_20221213141524029.jpg",
+    "specialization": "Dermatologist, cosmetologist and laser",
+    "address": "El-Rehab : Medical Center 1-behind banks complex",
+    "fees": "350"
+  },
+  {
+    "name": "Osama Khalil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbf0fa91a30b317af/Profile/150/osama-khalil-dermatology_20230228122707094.jpg",
+    "specialization": "Lecturer of Dermatology and Gential",
+    "address": "Nasr City : Abbas El-Akkad, third floor - above Capri Market - in front of Costa Caf�",
+    "fees": "300"
+  },
+  {
+    "name": "Salim Salah Salim",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT91d068/Profile/150/doctor-salim-salah-salim-dermatology_20210424222206859.jpg",
+    "specialization": "Consultant of Dermatology, Cosmetology, Andrology & Venereology",
+    "address": "Tanta : Satota (Saad Zaghloul) square",
+    "fees": "180"
+  },
+  {
+    "name": "Mohamed Hany El Tonsy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT681f4ecd4e918ac0/Profile/150/doctor-mohamed-hany-eltonsy.jpg",
+    "specialization": "Professor of Dermatology, STD & Andrology",
+    "address": "El-Mohandessin :  El Thawra sq",
+    "fees": "400"
+  },
+  {
+    "name": "Aziza Ramadan",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4a6ad4/Profile/150/doctor-aziza-ramadan-dermatology_20210113021028263.jpg",
+    "specialization": "Consultant of skin diseases, cosmetic and laser",
+    "address": "New Cairo : Abdullah ibn Salamah",
+    "fees": "300"
+  },
+  {
+    "name": "Lamiaa abd elWadood",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT86501f/Profile/150/doctor-lamia-mohamed-wadood-dermatology_20230102210643768.jpg",
+    "specialization": "Consultant of dermatology, beauty and laser",
+    "address": "New Cairo : cairo business plaza",
+    "fees": "500"
+  },
+  {
+    "name": "Shireen Wafiq",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT38ad3f/Profile/150/doctor-shireen-wafeeq-dermatology_20180919112731916.jpg",
+    "specialization": "Consultant of Dermatology and Laser at Hod el Marsoud Hospital",
+    "address": "Nasr City : Ahmed Elzomer .",
+    "fees": "300"
+  },
+  {
+    "name": "Sohir Taha",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe9392a1c548b2870/Profile/150/doctor-sohir-taha_20190401203054447.jpg",
+    "specialization": "Dermatology Consultant",
+    "address": "El-Mokattam : el togarain buildings",
+    "fees": "350"
+  },
+  {
+    "name": "Ahmed Ayad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT1449ac/Profile/150/doctor-ahmed-ayad-dermatology_20210207223306428.jpg",
+    "specialization": "Consultant in dermatological diseases, genital dermatology, and cosmo dermatology",
+    "address": "Victoria :  Momtaz Basha street",
+    "fees": "250"
+  },
+  {
+    "name": "Shreen Abdelmonem Mahmoud",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT460398/Profile/150/doctor-shreen-abdelmonem-mahmoud-dermatology_20201118022235574.jpg",
+    "specialization": "Master degree in dermatology & andrology\nElhaud ElmarsoudHospital",
+    "address": "Heliopolis : El Nozha",
+    "fees": "350"
+  },
+  {
+    "name": "Seham Ezzat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT598f2d/Profile/150/doctor-seham-ezzat-dermatology_20211215030517808.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Haram : elharam",
+    "fees": "250"
+  },
+  {
+    "name": "Ahmed Abdelwahab Amer",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3db23b/Profile/150/doctor-ahmed-abdelwahab-amer-dermatology_20180805103610482.jpg",
+    "specialization": "Consultant Of Dermatology & Venerology & Laser",
+    "address": "El-Obour City : Alsadat St.",
+    "fees": "200"
+  },
+  {
+    "name": "Mostafa Sanad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa21a26/Profile/150/clinic-mostafa-sanad-dermatology_20200218172959786.jpg",
+    "specialization": "Dermatology consultant",
+    "address": "10th of Ramadan : el- ordonia",
+    "fees": "150"
+  },
+  {
+    "name": "Huda Mekky",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7bee37/Profile/150/clinic-huda-mekky-habib-dermatology_20230206014932948.jpg",
+    "specialization": "Consultant of Dermatology and cosmetology",
+    "address": "Hadayek El-Ahram : from army streat",
+    "fees": "250"
+  },
+  {
+    "name": "Ahmed Ayad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa0e8df/Profile/150/doctor-ahmed-ayad-dermatology_20210207223306053.jpg",
+    "specialization": "Consultant in dermatological diseases, genital dermatology, and cosmo dermatology",
+    "address": "Sidy Gaber : Mostafa Kamel buildings",
+    "fees": "250"
+  },
+  {
+    "name": "Mohamed Abdel Shakour El Mohamady",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7392a3/Profile/150/doctor-mohamed-abdel-shakour-el-mohamady-dermatology_20200427044148996.jpg",
+    "specialization": "Consultant and Lecturer of Dermatology and Andrology",
+    "address": "El-Maadi :  El Horya Square",
+    "fees": "300"
+  },
+  {
+    "name": "Wael abdel hamid Shebl",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3a0ab4/Profile/150/doctor-wael-abdel-hamid-elshebl-dermatology_20191023230103341.jpg",
+    "specialization": "Dermatology Consultant",
+    "address": "Hadayek El-Kobba :  misr and sudan",
+    "fees": "300"
+  },
+  {
+    "name": "Samia El Kilany",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT726879/Profile/150/doctor-samia-el-kilany-dermatology-1_20180313110303.jpg",
+    "specialization": "Consultant Of Dermatology - Tanta University",
+    "address": "Samannoud : nahas square",
+    "fees": "105"
+  },
+  {
+    "name": "Miranda Nabil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8eaaf2/Profile/150/doctor-meranda-nabil-dermatology_20190315233721381.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "Heliopolis : El- Merghany st.",
+    "fees": "300"
+  },
+  {
+    "name": "Ahmed State",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTdb4d40/Profile/150/doctor-ahmed-state-dermatology_20190601193328284.jpg",
+    "specialization": "assisstant professor Of Dermatology and Andrology - Mansoura University",
+    "address": "El-Mansoura : Nawawy Road",
+    "fees": "260"
+  },
+  {
+    "name": "Eman Mohammed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT99eb61/Profile/150/doctor-eman-mohammed-dermatology_20181005153109771.jpg",
+    "specialization": "Consultant Specialized in Dermatology, Laser and Cosmetology  master degree Cairo University",
+    "address": "6th of October : elmahwar el markazi",
+    "fees": "400"
+  },
+  {
+    "name": "Mohamed Abdelmalek Nassar",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7ea78c/Profile/150/clinic-mohamed-abdelmalek-nassar-dermatology_20230104190954379.jpg",
+    "specialization": "Consultant of Dermatology and Laser",
+    "address": "El-Manyal : Zo Alfakar Albasha Squar",
+    "fees": "250"
+  },
+  {
+    "name": "Ahmed Ali Shoreibah",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8253dc/Profile/150/doctor-ahmed-ali-shoreibah-dermatology_20190207130107208.jpg",
+    "specialization": "Smart Skin Clinic,\nSpecialist",
+    "address": "Nasr City : Ahmed El Zomor st. - School station - above ElEzaby Pharmacy - beside Vodafone , KFC - 10th destrict - Nasr City.",
+    "fees": "450"
+  },
+  {
+    "name": "Abeer Clinic",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd9dff6/Profile/150/doctor-abeer-clinic-dermatology_20180213220059470.jpg",
+    "specialization": "For Dermatology, Laser and Cosmetics",
+    "address": "Faisal : gendia  mall _eltawabek",
+    "fees": "250"
+  },
+  {
+    "name": "Fatma Mohamed Abdelrehem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb0aba1ef7e4790/Profile/150/doctor-fatma-mohamed_20180224024141097.jpg",
+    "specialization": "Dermatology , Cosmetology and Laser Specialist - Ain Shams University .",
+    "address": "Heliopolis : al merghany",
+    "fees": "300"
+  },
+  {
+    "name": "Michael Basilly",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT9a8c60/Profile/150/doctor-michael-basilly-dermatology_20180419050026987.jpg",
+    "specialization": "Specialist Dermatology, Venerology, Andrology, cosmetology and laser",
+    "address": "Nasr City : Africa Street, from the minister's signal, extension of Mustafa Al-Nahhas, after Al-Manhamel School",
+    "fees": "300"
+  },
+  {
+    "name": "Ahmed Abozeid",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa6dd89/Profile/150/doctor-ahmed-abozeid-dermatology_20190801105030419.jpg",
+    "specialization": "Dermatology Specialist",
+    "address": "10th of Ramadan : El Ordinia - 10 of ramadan",
+    "fees": "120"
+  },
+  {
+    "name": "Nermine Tarek Khorshied",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7987f0/Profile/150/doctor-nermine--tarek-khorshied-dermatology_20190703212306567.jpg",
+    "specialization": "Consultant in Dermatology and Laser -Faculty of Medicine- El Kasr el Ainy",
+    "address": "El-Agouza : Farid shawky street (Desouk Street Previously) -infront of Farid Shawky Mosque",
+    "fees": "400"
+  },
+  {
+    "name": "Mina Magdy Shawky",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT69c895/Profile/150/doctor-mina-magdy-shawky-dermatology_20200407113217662.jpg",
+    "specialization": "Dermatology and Andrology clinic.",
+    "address": "Shoubra : Shoubra",
+    "fees": "300"
+  },
+  {
+    "name": "Elham Elshatory",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3d5f85/Profile/150/doctor-elham-ahmed-dermatology_20190930182356404.jpg",
+    "specialization": "Dermatology and laser Consultant",
+    "address": "El-Mansoura : el taraa street",
+    "fees": "220"
+  },
+  {
+    "name": "Ali Elhawary",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3381251c6c5cc028/Profile/150/ali-elhawary-dermatology_20221016142300588.jpg",
+    "specialization": "Professor And First Consultant Of Dermatology And Genital Disorders",
+    "address": "6th of October : Street 17, Third District.",
+    "fees": "250"
+  },
+  {
+    "name": "AlSayed Mohamed Fuad Mahmoud",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbc925c/Profile/150/sayed-fuad-dermatology_20200504230032135.jpg",
+    "specialization": "First Consultant Sayed Mohamed Fuad",
+    "address": "10th of Ramadan : Ordinia St.",
+    "fees": "150"
+  },
+  {
+    "name": "Nancy Abdelkader",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT90a7d1e544acb9da/Profile/150/nancy-abdelkader-dermatology_20210823120940078.jpg",
+    "specialization": "Consultant of dermatology ,cosmetology and laser-Ain Shams University.",
+    "address": "New Cairo : North Teseen Street-Wellcare Building(Addministrative Medical building)",
+    "fees": "400"
+  },
+  {
+    "name": "nezar  mohamed El tarras",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5d76c8ae4fe0be26/Profile/150/doctor-nezar-eltarras-mohamed-dermatology_20221227132744489.jpg",
+    "specialization": "Consultant of Dermatology and Andrology",
+    "address": "Shibin El-Kom : Sharaf Square -Al Hekma building - Gamal Abdelnaser street",
+    "fees": "160"
+  },
+  {
+    "name": "Mohamed Ismail",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb249a442e4cd86b2/Profile/150/doctor-mohamed-ismail-andrology-and-male-infertility_20221007233623354.jpg",
+    "specialization": "Consultant and Associate professor Dermatology, Andrology and laser",
+    "address": "Heliopolis : nozha",
+    "fees": "350"
+  },
+  {
+    "name": "Alice Bassem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd45332/Profile/150/doctor-alice-bassem-dermatology_20191205002213921.jpg",
+    "specialization": "Consultant Of Dermatology And Cosmetology Ain Shams University",
+    "address": "El-Zaitoun : Sanan Basha",
+    "fees": "250"
+  },
+  {
+    "name": "Nariman Salaheldin",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT94728880ecf14479/Profile/150/nariman-salaheldin-dermatology_20210211125008593.jpg",
+    "specialization": "Consultant in dermatology",
+    "address": "Miamy : gamal abdelnasser",
+    "fees": "180"
+  },
+  {
+    "name": "Maher Mahmoud",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8e1448/Profile/150/doctor-maher-mahmoud-dermatology_20220712131651570.jpg",
+    "specialization": "Consultant of dermatology, venereology  and cosmotic",
+    "address": "New Cairo : north 90th street",
+    "fees": "600"
+  },
+  {
+    "name": "Mohamed Soleit",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT99a37378ead90a/Profile/150/mohamed-soleit-dermatology_20220926121726819.jpg",
+    "specialization": "MD, Consultant of Dermatology, Andrology and aesthetics medicine - Faculty of Medicine, Ain shams university",
+    "address": "Heliopolis : Elhegaz Street",
+    "fees": "400"
+  },
+  {
+    "name": "Fathia Khattab",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT669f67/Profile/150/doctor-fathia-khattab-dermatology_20200106122823431.jpg",
+    "specialization": "Assist.Professor and constultant of Dermatology , skin laser abd cosmotology",
+    "address": "El-Zagazig : Manshet Abazza Street",
+    "fees": "210"
+  },
+  {
+    "name": "Mohamed Gabr",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT94385e/Profile/150/doctor-mohamed-gabr-maadi-dermatology_20190310121223781.jpg",
+    "specialization": "Consultant in Dermatology,Venerology,Cosmetology And Laser Therapy",
+    "address": "El-Maadi : Al Nasr St. - Gazaer Square",
+    "fees": "300"
+  },
+  {
+    "name": "Lobna Alsayed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT33cb180ec2db3a50/Profile/150/lobna--alsayed-dermatology_20221206143801034.jpg",
+    "specialization": "Consultant of Dermatology and Andrology",
+    "address": "El-Rehab : Al Rehab 1 Gate 12 Gateway Mall Building D 2nd Floor Clinic DS-22",
+    "fees": "400"
+  },
+  {
+    "name": "Ashraf El Galaby",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb0f9da2dda09128f/Profile/150/doctor-ashraf-el-galaby-dermatology_20220320105901376.jpg",
+    "specialization": "Dermatology and aesthetics and laser consultant and andorology and infertility consultant",
+    "address": "Aga : elgalaa street",
+    "fees": "110"
+  },
+  {
+    "name": "Hanan Saleh",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbb17ed/Profile/150/hanan-saleh-dermatology_20191027152708217.jpg",
+    "specialization": "Professor  of Dermatology",
+    "address": "Heliopolis : Nehro,Heliopolis",
+    "fees": "400"
+  },
+  {
+    "name": "Elsayed  Amer",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT8bfea9/Profile/150/doctor-elsayed--amer--dermatology_20221015103131164.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Seyouf : Adib Makad Street",
+    "fees": "150"
+  },
+  {
+    "name": "Wafaa Awad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT84e225/Profile/150/doctor-wafaa-awad-dermatology_20200211145716745.jpg",
+    "specialization": "Consultant of Dermatology, Laser ant Anti - Aging Interventions",
+    "address": "El-Maadi : Al Nasr Street",
+    "fees": "400"
+  },
+  {
+    "name": "Hanaa Ramadan",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT133894/Profile/150/doctor-hanaa-ramadan-dermatology_20210926120759456.jpg",
+    "specialization": "Consultant dermatology&cosmotology",
+    "address": "El-Matareya : matareya square",
+    "fees": "200"
+  },
+  {
+    "name": "Nermine Al Aishy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT37b61c7cefd83deb/Profile/150/nermine--al-aishy--dermatology_20210915225414739.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "New Cairo : City center",
+    "fees": "750"
+  },
+  {
+    "name": "Amal Abdelrauf Shafik",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT400056/Profile/150/doctor-amal-abdelrauf-shafik-dermatology_20190320174018330.jpg",
+    "specialization": "Consultant of Dermatology , cosmetics and reproductive health",
+    "address": "Shoubra El-Kheima : Corniche El Nile Street in front of the Childrens Club",
+    "fees": "160"
+  },
+  {
+    "name": "Sherif Mohamed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfcbddd55ab85b8c6/Profile/150/sherif--mohamed-dermatology_20220306143228863.jpg",
+    "specialization": "Consultant Of Dermatology,Cosmetology and laser therapy-Ain Shams University.",
+    "address": "El-Sheikh Zayed : 13 neibourhood",
+    "fees": "250"
+  },
+  {
+    "name": "Nermine Al Aishy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT38fc0172ca30d5a8/Profile/150/nermine--al-aishy-dermatology_20220123130823178.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "El-Maadi : Nile Cornishe",
+    "fees": "500"
+  },
+  {
+    "name": "Maha Fathy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT2c5d1f501043a98/Profile/150/doctor-maha-fathy-dermatology_20230109125345757.jpg",
+    "specialization": "consultant of dermatology and laser",
+    "address": "El-Sheikh Zayed : Capital business",
+    "fees": "400"
+  },
+  {
+    "name": "Ahmed Mohamed Omar",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcdbd27/Profile/150/ahmed--mohamed-omar--dermatology_20200716163746244.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "El-Sheikh Zayed : Mouez Mall 2-District 12-behind CIC University-and above Sara Elbatta Milk Shop-",
+    "fees": "300"
+  },
+  {
+    "name": "Naziha Khafagy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT880d2a22583cf2c9/Profile/150/naziha-khafagy-dermatology_20210915225005310.jpg",
+    "specialization": "Consultant of Dermatology and genital",
+    "address": "New Cairo : City center",
+    "fees": "650"
+  },
+  {
+    "name": "John Gameel",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf1fc5127979d32f5/Profile/150/doctor-john-gameel-dermatology_20220210004305132.jpg",
+    "specialization": "Consultant of dermatology, venereology and cosmetology - Ain Shams University",
+    "address": "El-Zaitoun : Sleim elawl St",
+    "fees": "150"
+  },
+  {
+    "name": "Mohamed Kotb",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT74b53126328ba469/Profile/150/mohamed-kotb-dermatology_20210915165136049.jpg",
+    "specialization": "Consultant of Dermatology and Andrology",
+    "address": "6th of October : Cleopatra 6th of October -Majara",
+    "fees": "650"
+  },
+  {
+    "name": "Mohamed Gabr",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5b6e7f8e5ef85905/Profile/150/mohamed-gabr-dermatology_20211117132826138.jpg",
+    "specialization": "Dermatology Consultant. Kasr El Ainy university. Cosmetology and laser therapy.",
+    "address": "El-Maadi : 70 Al-Nasr Street - New Maadi - in front of Al-Tawheed and Al-Nour - above Alwan Library",
+    "fees": "300"
+  },
+  {
+    "name": "Mohamed Darwesh",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc5a519261f72ac9d/Profile/150/mohamed-darwesh-dermatology_20220626150928265.jpg",
+    "specialization": "Consultant of Dermatology and Andrology",
+    "address": "El-Maadi : Nile Corniche Street,",
+    "fees": "500"
+  },
+  {
+    "name": "Hagar ElSayed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcae3deec2cbb8daf/Profile/150/hagar-elsayed-dermatology_20220509175404208.jpg",
+    "specialization": "Consultant of dermatology and laser and teacher of dermatology, Faculty of Medicine, Kasr Al-Ainy, Cairo University",
+    "address": "El-Sheikh Zayed : Mouez Mall 2-District 12-behind CIC University-and above Sara Elbatta Milk Shop-",
+    "fees": "300"
+  },
+  {
+    "name": "Shady Salah",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT16f94017e6bffef0/Profile/150/shady--salah-dermatology_20210915223222794.jpg",
+    "specialization": "Consultant of dermatology and genital",
+    "address": "New Cairo : City center",
+    "fees": "650"
+  },
+  {
+    "name": "AbdelWahab Galal",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT292a46/Profile/150/abdelwahab-galal--dermatology_20190721033713767.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Haram : Khofo street",
+    "fees": "80"
+  },
+  {
+    "name": "Ahmed Kelany",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT91e89601fa1d5899/Profile/150/ahmed-kelany-dermatology_20210104045706130.jpg",
+    "specialization": "consultant of Dermatology, Venereology,Beauty and laser treatment",
+    "address": "6th of October : Hamis Trading Mall-Elmotamayez District Enterance-Above Tikka",
+    "fees": "300"
+  },
+  {
+    "name": "Heba Mahmoud ElToumy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT921395/Profile/150/doctor-heba-mahmoud-altoomi-dermatology_20220925160214642.jpg",
+    "specialization": "Specialist in clinical and cosmotic dermatology",
+    "address": "Hadayek El-Ahram : Ahmos Gate",
+    "fees": "400"
+  },
+  {
+    "name": "Mohsen Soliman",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbe540852f5bc1be4/Profile/150/mohsen--soliman-dermatology_20211020131136292.jpg",
+    "specialization": "Professor And First Consultant Of Rheumatology And Immunological Rheumatic Diseases At Faculty of Medicine -Cairo University.",
+    "address": "El-Sheikh Zayed : District Seven-Second Neighborhood-Shalz mall",
+    "fees": "800"
+  },
+  {
+    "name": "Samah Ezzat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTeabe94/Profile/150/doctor-samah-ezzat-dermatology_20201124220723453.jpg",
+    "specialization": "Ph.D. and Consultant Dermatology, Cosmetic and Lazer",
+    "address": "Banha : College of Commerce Street",
+    "fees": "130"
+  },
+  {
+    "name": "Nora Abdelmoniem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT36ca6516fea114cb/Profile/150/nora-abdelmoniem--dermatology_20221103012636163.jpg",
+    "specialization": "Dermatology, cosmetology and laser specialist",
+    "address": "El-Mansoura : Gamal Eldeen Elafghany Street(elotobes eldawli street)-Besides ElSalam Hotel",
+    "fees": "250"
+  },
+  {
+    "name": "Ahmed Abuelmagd",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbd52a107f87308f3/Profile/150/ahmed-abuelmagd-dermatology_20220921165548075.jpg",
+    "specialization": "M.Sc. of dermatology, venerology and andrology - Faculty Of Medicine Ain Shams University",
+    "address": "El-Maadi : Khamseen Street (Carrefour extension) - Zahraa AlMaadi",
+    "fees": "300"
+  },
+  {
+    "name": "Ahmed Soliman",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5b5ebcc54397919e/Profile/150/ahmed--soliman-dermatology_20221102171108434.jpg",
+    "specialization": "Consultant dermatologist at Dar Al Fouad Hospital, Nasr City Branch - teacher at the National Research Center",
+    "address": "El-Dokki : Teba square",
+    "fees": "450"
+  },
+  {
+    "name": "Mohamed ElGalaly",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5cc0006b2bc7efbc/Profile/150/doctor-mohamed-ezzat-elgalaly-dermatology_20210304151718041.jpg",
+    "specialization": "Specialist in Dermatology, Venereology and Cosmetic",
+    "address": "El-Zagazig : Qawmya Square",
+    "fees": "200"
+  },
+  {
+    "name": "Moustafa Deif",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT45c508/Profile/150/doctor-moustafa-deif-dermatology_20210202014608524.jpg",
+    "specialization": "Specialist in Dermatology,Cosmetics and Andrology",
+    "address": "El-Rehab : Corner",
+    "fees": "400"
+  },
+  {
+    "name": "Tarek Abdelhamid Elnagar",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa7ff86/Profile/150/doctor-tarek-abdelhamid-elnagar-dermatology_20230223172757764.jpg",
+    "specialization": "Dermatologist , Genital , Cosmetic And Infertility",
+    "address": "El-Dokki : tahrer",
+    "fees": "350"
+  },
+  {
+    "name": "Amany Nabil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6025b742fbdfadf7/Profile/150/amany-nabil-dermatology_20220929145243746.jpg",
+    "specialization": "Specialist in dermatology and venereology",
+    "address": "Moharam Bek : Bwalino",
+    "fees": "150"
+  },
+  {
+    "name": "Amany Nabil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6025b742fbdfadf7/Profile/150/amany-nabil-dermatology_20220929145243746.jpg",
+    "specialization": "Specialist in dermatology and venereology",
+    "address": "Moharam Bek : Bwalino",
+    "fees": "150"
+  },
+  {
+    "name": "Randa Ahmed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa4d8ddb0b640f71e/Profile/150/randa-ahmed-dermatology_20220816221408055.jpg",
+    "specialization": "Dermatology, Cosmetology and laser specialist",
+    "address": "El-Haram : khatem el morsalen street",
+    "fees": "250"
+  },
+  {
+    "name": "Mostafa Hamdy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3e8001c609ba902d/Profile/150/mostafa--hamdy-dermatology_20220314162201278.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "El-Rehab : Al Rehab 1 Gate 12 Gateway Mall Building D 2nd Floor Clinic DS-22",
+    "fees": "400"
+  },
+  {
+    "name": "Hanaa El Khoudary",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd1a4d5/Profile/150/doctor-hanaa-el-khoudary-dermatology_20190331214936670.jpg",
+    "specialization": "Specialist of dermatology and cosmetology",
+    "address": "Damietta City : srour square",
+    "fees": "150"
+  },
+  {
+    "name": "nada farouk",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe2c9b794e9a86fd7/Profile/150/doctor-nada-farouk-dermatology-4_20210224104045048.jpg",
+    "specialization": "lecturer and consultant of dermatology, cosmetology and laser faculty of medecine el kasr al aini",
+    "address": "6th of October : al mehwar al markazi",
+    "fees": "350"
+  },
+  {
+    "name": "Merna Zohair",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT86eecce6b10fc9f8/Profile/150/merna-zohair-dermatology_20230207102439492.jpg",
+    "specialization": "Specialist of Dermatology , Cosmetic dermatology and Laser",
+    "address": "Nasr City : Ali Amin Street, Al Manteqah Al Oula",
+    "fees": "300"
+  },
+  {
+    "name": "Alhassan Shahrour",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd16d5e/Profile/150/alhassan-shahrour-dermatology_20200229173649811.jpg",
+    "specialization": "Specialist of dermatology and venereology",
+    "address": "6th of October : kafrawy street",
+    "fees": "300"
+  },
+  {
+    "name": "Mohamed Nasef",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT44e479/Profile/150/doctor-mohamed-nassif-dermatology_20221006213758105.jpg",
+    "specialization": "Dermatologist, skin cosmetic and laser treatment specialist",
+    "address": "Banha : 1 Gameel Street",
+    "fees": "120"
+  },
+  {
+    "name": "Raghda Alshafaei",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5088efff7a3eaef0/Profile/150/raghda-alshafaei-dermatology_20221108134646287.jpg",
+    "specialization": "Dermatology and Cosmetic consultant",
+    "address": "6th of October : Hamis Trading Mall-Elmotamayez District Enterance-Above Tikka",
+    "fees": "300"
+  },
+  {
+    "name": "Ahmed Megahed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc686b915126122e0/Profile/150/ahmed-megahed-dermatology_20221204101653430.jpg",
+    "specialization": "Specialist of dermatology, cosmetology and reproductive medicine - Faculty of Medicine - Al-Azhar University.",
+    "address": "Heliopolis : Elhegaz Street-Above Elaelayat Restaurant",
+    "fees": "400"
+  },
+  {
+    "name": "Azza Abdelkader",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT98e05f6148872c88/Profile/150/azza-abdelkader-dermatology_20220512111207442.jpg",
+    "specialization": "Consultant of Dermatology, Cosmetology and Laser - Kasr Al-Ainy Faculty of Medicine - Cairo University",
+    "address": "El-Sheikh Zayed : District Seven-Second Neighborhood-Shalz mall",
+    "fees": "300"
+  },
+  {
+    "name": "Marwa  Nagdy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa48655/Profile/150/doctor-marwa--nagdy--dermatology_20220316120351572.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "Faisal :  Faisal St ElAresh",
+    "fees": "200"
+  },
+  {
+    "name": "Mona AbdElghafar",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc04e5e1b242aeca3/Profile/150/mona-abdelghafar-dermatology_20230201154729010.jpg",
+    "specialization": "Dermatologist and Venereologist",
+    "address": "El-Zagazig :  Tolba Ewida st",
+    "fees": "150"
+  },
+  {
+    "name": "Nourhan Hashem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT62c920/Profile/150/nourhan-hashem-dermatology_20200817155148417.jpg",
+    "specialization": "Dermatologist, cosmetic and laser specialist",
+    "address": "Tanta : Hassan ibn sabet cross Elmoatassem",
+    "fees": "200"
+  },
+  {
+    "name": "Sara Mohamed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT2f0ae15834d2f4b7/Profile/150/sara-mohamed-dermatology_20221101161723145.jpg",
+    "specialization": "Specialist in dermatology, cosmetology and laser, Ain Shams University",
+    "address": "Shoubra : 212 Shubra Street, above Buffalo Burger, El Khalfawy",
+    "fees": "150"
+  },
+  {
+    "name": "Mohamed Ibrahim",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT1b0f4f2c7e56897e/Profile/150/mohamed-ibrahim-dermatology_20220801115512548.jpg",
+    "specialization": "Specialist Dermatology, Venerology, Andrology, cosmetology and laser",
+    "address": "Ain Shams : 181 Gesr El Suez Street in front of Gate 5 Shams Club over Vodafone",
+    "fees": "150"
+  },
+  {
+    "name": "enas abdelkader  abu alkhair",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT509cb23b236bb976/Profile/150/doctor-enas-abdelkader--abu-alkhair-dermatology_20210408131051874.jpg",
+    "specialization": "Dermatologist, Plastic and Laser Specialist, Master of Dermatology",
+    "address": "Kafr El sheikh City : elmoharbeen elgdeda",
+    "fees": "105"
+  },
+  {
+    "name": "Shaimaa Shehata",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT605c8e7932dbb74e/Profile/150/shaimaa-shehata-dermatology_20221204120136709.jpg",
+    "specialization": "Specialist of Dermatology and Andrology",
+    "address": "Boulaq El Dakrour : Al-Mutamadiya St.-Sharif Building-Third Floor-Giza",
+    "fees": "150"
+  },
+  {
+    "name": "marwa mostafa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe5b0c5f564c26e0e/Profile/150/marwa--mostafa-dermatology_20220801080334038.jpg",
+    "specialization": "Dermatology, cosmetic and laser specialist",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Bassant Sameh",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc071cab3f34f53fa/Profile/150/bassant-sameh-dermatology_20230103190038127.jpg",
+    "specialization": "Dermatologist, Venereologist and Cosmetologist at Al Hodh Al Marsoud Hospital",
+    "address": "El-Matareya : Elhana towers-Elmateria Main Street-Elmateria Square",
+    "fees": "250"
+  },
+  {
+    "name": "marwa mostafa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe5b0c5f564c26e0e/Profile/150/marwa--mostafa-dermatology_20220801080334038.jpg",
+    "specialization": "Dermatology, cosmetic and laser specialist",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Bassant Sameh",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc071cab3f34f53fa/Profile/150/bassant-sameh-dermatology_20230103190038127.jpg",
+    "specialization": "Dermatologist, Venereologist and Cosmetologist at Al Hodh Al Marsoud Hospital",
+    "address": "El-Matareya : Elhana towers-Elmateria Main Street-Elmateria Square",
+    "fees": "250"
+  },
+  {
+    "name": "Tamem El Kenany",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT47490d3674d8b244/Profile/150/tamem-el-kenany-dermatology_20221114034447352.jpg",
+    "specialization": "Specialist of Dermatology , Genital Dermatology and Andrology",
+    "address": "Sidy Gaber : Mohamed El-Sayed Hefni Street - Cleopatra Tram Station, behind Sidi Gaber Specialized Hospital - First Floor",
+    "fees": "200"
+  },
+  {
+    "name": "Manar Khames",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTdf47cbb59fa37663/Profile/150/manar--khames-dermatology_20221220163820049.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "Boulaq El Dakrour : Al-Mutamadiya St.-Sharif Building-Third Floor-Giza",
+    "fees": "150"
+  },
+  {
+    "name": "Shaimaa Shehata",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT629a86e449e9066c/Profile/150/shaimaa-shehata-dermatology_20221220164353188.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "Boulaq El Dakrour : Al-Mutamadiya St.-Sharif Building-Third Floor-Giza",
+    "fees": "150"
+  },
+  {
+    "name": "khaled elbahouty",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT23f002ae336ab3d5/Profile/150/khaled-elbahouty-dermatology_20220801020253399.jpg",
+    "specialization": "Dermatology, cosmetic and laser specialist - Kasr Al-Ainy Medicine",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Mahdy ElKaniny",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7cc7e62c066d9209/Profile/150/mahdy-elkaniny-dermatology_20220512113157825.jpg",
+    "specialization": "Dermatology, cosmetology and laser specialist",
+    "address": "6th of October : Second district-neighborhood 2-Geel 2000 school street-infront of om elmoumnein school And Orman Trust School",
+    "fees": "250"
+  },
+  {
+    "name": "Mohamed Fahmy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6d1635e66ef00623/Profile/150/mohamed-fahmy-dermatology_20211216173942122.jpg",
+    "specialization": "Specialist in Dermatology and Aesthetics - Kasr Al-Ainy Faculty of Medicine - Cairo University",
+    "address": "6th of October : Second district-neighborhood 2-Geel 2000 school street-infront of om elmoumnein school And Orman Trust School",
+    "fees": "250"
+  },
+  {
+    "name": "Mohamed Ibrahim Elgendy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT47fb464e03029590/Profile/150/mohamed-ibrahim-elgendy--dermatology_20210705125850435.jpg",
+    "specialization": "Consultant Of Dermatology,Cosmetology,And Laser Treatment",
+    "address": "6th of October : Second district-neighborhood 2-Geel 2000 school street-infront of om elmoumnein school And Orman Trust School",
+    "fees": "250"
+  },
+  {
+    "name": "Marwa Mostafa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd2f654511d2ab355/Profile/150/marwa--mostafa-dermatology_20220105171906507.jpg",
+    "specialization": "Specialist in dermatology, cosmetology and laser",
+    "address": "6th of October : Hamis Trading Mall-Elmotamayez District Enterance-Above Tikka",
+    "fees": "350"
+  },
+  {
+    "name": "Nada ElKady",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT440b19be3442e9b1/Profile/150/nada-elkady-dermatology_20211205145611172.jpg",
+    "specialization": "Specialist Off Dermatology, venereology, Cosmetology and laser therapy",
+    "address": "El-Sheikh Zayed : District Seven-Second Neighborhood-Shalz mall",
+    "fees": "300"
+  },
+  {
+    "name": "Abdel Salam El Shazly",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3c31f3a226c1a1c7/Profile/150/abdel-salam-el-shazly-dermatology_20220412085732045.jpg",
+    "specialization": "Specialist of Dermatology   PhD in dermatology and venereology",
+    "address": "Heliopolis : Abou Ebaid El Bakry",
+    "fees": "500"
+  },
+  {
+    "name": "Shaimaa Mahmoud",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb7db29/Profile/150/doctor-shaimaa-mahmoud-dermatology_20201020200301061.jpg",
+    "specialization": "Specialist of dermatology",
+    "address": "Nasr City : elbatrawy street",
+    "fees": "300"
+  },
+  {
+    "name": "Ghada Fathy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT9f281d/Profile/150/ghada-fathy-dermatology_20190121161336905.jpg",
+    "specialization": "Professor of  Dermatology and Andrology",
+    "address": "Heliopolis : Nehro,Heliopolis",
+    "fees": "400"
+  },
+  {
+    "name": "Light Clinic Dr Ahmad Shoreibah",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTaaac90/Profile/150/center-light-radwa-sarhan--dermatology_20190616181156089.jpg",
+    "specialization": "Consultant of Dermatology,Cosmetology and Laser",
+    "address": "El-Sheikh Zayed : Capital Business Park",
+    "fees": "800"
+  },
+  {
+    "name": "Ghada Fathy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6631882522a231d5/Profile/150/ghada--fathy-dermatology_20210915223618138.jpg",
+    "specialization": "Consultant of dermatology and genital",
+    "address": "New Cairo : City center",
+    "fees": "650"
+  },
+  {
+    "name": "Amal Ismail",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT60a2f85393c3b1bd/Profile/150/amal--ismail-dermatology_20220824145341643.jpg",
+    "specialization": "Consultant of dermatology, cosmetology and laser - Kasr Al-Ainy Medicine",
+    "address": "Faisal : Faisal Street Hassan Mohamed Station above Oriental Weavers and Cairo Scan",
+    "fees": "150"
+  },
+  {
+    "name": "Ghada Fathy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT94b43893637cad61/Profile/150/ghada-fathy-dermatology_20220413102945198.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "Heliopolis : Abou Ebaid El Bakry",
+    "fees": "500"
+  },
+  {
+    "name": "Raghda gaser",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4dcae67ce7219317/Profile/150/raghda-gaser-dermatology_20220814100219402.jpg",
+    "specialization": "Consultant of venereal and cosmetic dermatology - Kasr Al-Ainy Medicine",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Shaimaa Abo El Maaty",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT63a0c1b0c7916770/Profile/150/doctor-shaimaa-abo-el-maaty-dermatology_20220220091354182.jpg",
+    "specialization": "Dermatology and laser Consultant Al-Hawd Al-Marsoud Hospital",
+    "address": "Nasr City : Ali Ameen _Moustafa El Nahas",
+    "fees": "300"
+  },
+  {
+    "name": "Moheb Karam Fouad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3cedf8/Profile/150/moheb-karam-fouad-dermatology_20180620233118282.jpg",
+    "specialization": "Head of department of Dermatology  Andrology Police Hospital",
+    "address": "Assiut city : AlGeish St.",
+    "fees": "100"
+  },
+  {
+    "name": "Marwa Abu  ElLail",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT2f2f5f/Profile/150/doctor-marwa-abu--ellail-dermatology_20220626144722219.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "Hadayek El-Ahram : Gate 1 tharwa maadania",
+    "fees": "280"
+  },
+  {
+    "name": "shorouk Elmoataz",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbf6c8ab9e05b7e48/Profile/150/shorouk-elmoataz-dermatology_20210817163510929.jpg",
+    "specialization": "Dermatology specialist",
+    "address": "Faisal : eshreen street",
+    "fees": "200"
+  },
+  {
+    "name": "Mohamed Mahmoud Fahmy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT53b561051a4af4a8/Profile/150/mohamed-mahmoud-fahmy-dermatology_20220306143007857.jpg",
+    "specialization": "Specialist of Dermatology",
+    "address": "6th of October : 6 october",
+    "fees": "150"
+  },
+  {
+    "name": "Aya Abdo",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT373f7b688b4a4cc2/Profile/150/aya--abdo-dermatology_20220717135926774.jpg",
+    "specialization": "Specialist of Dermatology and Andrology",
+    "address": "6th of October : 6 october",
+    "fees": "150"
+  },
+  {
+    "name": "Hossam Barrawy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT198105/Profile/150/hossam--elbarrawy-dermatology_20180723004639971.jpg",
+    "specialization": "Consultant of Dermatology and Andrology - Member of A.A.D",
+    "address": "Bulkly : wezara station",
+    "fees": "200"
+  },
+  {
+    "name": "Amany Abdel Hady",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcc50ccecd459f9a0/Profile/150/doctor-amany-abdel-hady_20221122095126730.jpg",
+    "specialization": "Dermatology Consultant",
+    "address": "New Cairo : Street 15",
+    "fees": "400"
+  },
+  {
+    "name": "Azmy Ahmed AbdElatif Atia",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb2da37/Profile/150/doctor-azmy-abd-ellatif,doctor-azmy-ahmed-abdellatif.jpg",
+    "specialization": "Professor of Dermatology and Venereology, Faculty of Medicine , Al Azhar University",
+    "address": "El-Mohandessin : 50 Mohy Eldin Abo ElEzz Street Same Building as Alfa Labs and Beside KFC.",
+    "fees": "400"
+  },
+  {
+    "name": "Hussain Algallady",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTbf5ad8/Profile/150/doctor-hussain-algallady-dermatology_20171027135616.jpg",
+    "specialization": "Consultant of Dermatology & Andrology & Laser",
+    "address": "El-Mansoura : el mashaya el soflia",
+    "fees": "220"
+  },
+  {
+    "name": "RANIA LOTFY",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT888d10/Profile/150/doctor-ranya-lotfy_20230117163317555.jpg",
+    "specialization": "Dermatology and laser Professor",
+    "address": "Heliopolis : 59 El Hegaz St.,In Front Of Masjed Al Kholafaa El Rashden - Heliopolis",
+    "fees": "400"
+  },
+  {
+    "name": "Abeer Attia Tawfik",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT27055e/Profile/150/doctor-abeer-atteia-tawfik-dermatology_20171030181732715.jpg",
+    "specialization": "Professor Of Dermatology and Laser",
+    "address": "El-Agouza :  El Nabawi El Mohandes Square",
+    "fees": "300"
+  },
+  {
+    "name": "Hanan Mohamed Saleh",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3f6e15/Profile/150/doctor-hanan-mohamed-saleh-dermatology.jpg",
+    "specialization": "Head of Dermatology and venereology  Ain shams universty",
+    "address": "Hadayek El-Kobba :  teraat el gendy",
+    "fees": "300"
+  },
+  {
+    "name": "Magdy Abdel Salam",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT64c0d1/Profile/150/doctor-magdy-abdel-salam-dermatology_20220517155600565.jpg",
+    "specialization": "Consultant in Dermatology, hair transplantation, cosmetic and Laser",
+    "address": "Nasr City : El Mohandsein Building- City Stars -el Nasr Road",
+    "fees": "500"
+  },
+  {
+    "name": "Heba Elsayed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTddb35c/Profile/150/doctor-heba-elsayed-dermatology_20171128194056.jpg",
+    "specialization": "Consultant of Dermatology, Beauty and Laser",
+    "address": "El-Sheikh Zayed : next to spcialized zayed hospital",
+    "fees": "400"
+  },
+  {
+    "name": "Seif Elfiky",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6f0b06/Profile/150/doctor-seif-elfiky-dermatology_20200921202656005.jpg",
+    "specialization": "Consultant of Dermatology  laser institute cairo university, Member of the European Academy and the American Academy",
+    "address": "El-Sheikh Zayed : Twin Tower",
+    "fees": "400"
+  },
+  {
+    "name": "Tarek beshr",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe3ad1d/Profile/150/doctor-tarek-beshr-dermatology_20180521220353017.jpg",
+    "specialization": "Dermatology and venereology  consultant",
+    "address": "El-Manyal : Manial",
+    "fees": "400"
+  },
+  {
+    "name": "Sara Otb",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7e03d1/Profile/150/doctor-sara-otb-dermatology_20221110115436952.jpg",
+    "specialization": "Consultant Of Dermatology, Cosmetology & Laser Therapy",
+    "address": "Faisal : fisal",
+    "fees": "400"
+  },
+  {
+    "name": "Shereen Farouk Goma",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT285121/Profile/150/doctor-shereen-farouk-dermatology_20180414232855.jpg",
+    "specialization": "Professor of Dermatology, Reproductive and Infertility , Menia University",
+    "address": "El-Sheikh Zayed : el shbab",
+    "fees": "400"
+  },
+  {
+    "name": "Ahmed Abdel moneim",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT1c2ef0/Profile/150/clinic-ahmed-abdel-moneim-dermatology_20220704092409799.jpg",
+    "specialization": "Consultant of dermatology ,venereology and andrology",
+    "address": "Damanhur : first elsagha street",
+    "fees": "250"
+  },
+  {
+    "name": "Revien Zaki Shaaban",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa94244/Profile/150/doctor-revien-zaki-shaaban-dermatology_20180924011939877.jpg",
+    "specialization": "Consultant of Dermatology, Cosmetology and Female Sexual Dysfunction.",
+    "address": "Janaklees : Alhourya",
+    "fees": "150"
+  },
+  {
+    "name": "Yasser Ibrahim",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4e76c1/Profile/150/doctor-yasser-ibrahim-dermatology.jpg",
+    "specialization": "Consultant Dermatology and Andrology- 6th October University hospital and Misr University hospital.",
+    "address": "6th of October : Al Hosary Square-Aly Eldeen city mall",
+    "fees": "400"
+  },
+  {
+    "name": "Heba Gawdat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT148ea6/Profile/150/doctor-heba-gawdat-dermatology_20200407172502387.jpg",
+    "specialization": "Professor of Dermatology, specialized in Vitiligo & Psoriasis, Dermoscopy  Faculty of Medicine Cairo University",
+    "address": "El-Maadi : Al Horrya Square",
+    "fees": "400"
+  },
+  {
+    "name": "AHMED ABDEL MONEIM ABDEL KARIM",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfd6b7b/Profile/150/clinic-ahmed-abdel-moneim-dermatology_20220704092409658.jpg",
+    "specialization": "Consultant of dermatology ,venereology and andrology",
+    "address": "Victoria : 8 galaa street  behind  el hourya police department , victoria , Alexandria",
+    "fees": "250"
+  },
+  {
+    "name": "Aymen ElRifaie",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT9bddb9/Profile/150/doctor-ayman-saad-elrefaei-dermatology_20170213172334.jpg",
+    "specialization": "Consultant of Dermatology and Andrology - Faculty of Medicine Cairo University",
+    "address": "El-Mohandessin :  ElBatal Ahmed Abd Elaziz",
+    "fees": "400"
+  },
+  {
+    "name": "Ahmed aly abo henidi",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7cf7c4/Profile/150/doctor-ahmed-ali-abo-henidi-dermatology_20180510120935.jpg",
+    "specialization": "Consultant of dermatology, genital dermatology and infertility Cairo university",
+    "address": "Nasr City : Samir Abdel Raouf",
+    "fees": "400"
+  },
+  {
+    "name": "Osama Sorour",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT50945c/Profile/150/doctor-osama-sorour-dermatology-2_20191229134748335.jpg",
+    "specialization": "Professor of Dermatology Faculty of medicine- Alexandria university",
+    "address": "El-Azarita : Dr Abdel Hamid Badawy Street",
+    "fees": "300"
+  },
+  {
+    "name": "Magdy Abdel Salam",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4c38bf/Profile/150/doctor-magdy-abdel-salam-dermatology_20220517155600409.jpg",
+    "specialization": "Consultant in Dermatology, hair transplantation, cosmetic and Laser",
+    "address": "New Cairo : Medical park premier",
+    "fees": "500"
+  },
+  {
+    "name": "Amal Elsayed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT370aa6/Profile/150/doctor-amal-elsayed-dermatology-1_20180904093330.jpg",
+    "specialization": "Dermatology and Cosmetology Consultant.",
+    "address": "Moharam Bek : Rasafa street",
+    "fees": "360"
+  },
+  {
+    "name": "Amr Zaky",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3cc818/Profile/150/doctor-amr-zaky-dermatology_20200217085149170.jpg",
+    "specialization": "Professor  of Dermatology and Andrology",
+    "address": "Nasr City : Elnasr street Awel May building",
+    "fees": "300"
+  },
+  {
+    "name": "Hala abdel salam fayed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfd4f74/Profile/150/hala_abdel_salam_fayed.jpg",
+    "specialization": "Dermatology Consultant",
+    "address": "El-Zaitoun : Selim el awal St.",
+    "fees": "300"
+  },
+  {
+    "name": "Mostafa Ahmed Hammam",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb46477/Profile/150/doctor-mostafa-ahmed-hamam--dermatology_20190507015437208.jpg",
+    "specialization": "Professor Of Dermatology And Andrology",
+    "address": "Heliopolis : El Merghany",
+    "fees": "300"
+  },
+  {
+    "name": "Mohamed Farouk El Semellawy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5fdec89adcca2480/Profile/150/doctor-mohamed-farouk-elsemellawy_20210411005015528.jpg",
+    "specialization": "Dermatology consultant",
+    "address": "Heliopolis : El Khalifa El Mamoun street",
+    "fees": "450"
+  },
+  {
+    "name": "Abdelsalam El-Shazly",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfd05d8/Profile/150/doctor-abdelsalam-el-shazly-dermatology.jpg",
+    "specialization": "Consultant of Dermatology and Venereology",
+    "address": "West El-Balad :  Mohamed Sedky",
+    "fees": "400"
+  },
+  {
+    "name": "Rania Elhusseiny",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT2e34fc/Profile/150/doctor-rania-elhusseiny-dermatology_20211005121811022.jpg",
+    "specialization": "Consultant and  Assistant professor of Dermatology, Venereology, Andrology and Laser Faculty of Medicine,Ain Shams University",
+    "address": "Heliopolis :  El Nozha",
+    "fees": "350"
+  },
+  {
+    "name": "Osama Elshaboury",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT82d52f/Profile/150/clinic-osama-elshaboury-dermatology_20180923114632998.jpg",
+    "specialization": "Consultant of Dermatology and andrology",
+    "address": "El-Mansoura : Suez canal street",
+    "fees": "180"
+  },
+  {
+    "name": "Ahmed Abuelmagd",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTec93f2/Profile/150/doctor-ahmed-abuelmagd-dermatology_20221213100141511.jpg",
+    "specialization": "Specialist of dermatology,  venerology and andrology",
+    "address": "El-Mokattam : Street 9-Elmokkatam",
+    "fees": "300"
+  },
+  {
+    "name": "Ahmed Abouzeid",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa292cc/Profile/150/doctor-ahmed-abouzeid-dermatology_20190801104859472.jpg",
+    "specialization": "Specialist of skin, cosmetics and male diseases",
+    "address": "Ain Shams : gamal abd el nasser st , gesr el suez , cairo",
+    "fees": "120"
+  },
+  {
+    "name": "Sara Elhawary",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf52fe2/Profile/150/doctor-sara-elhawary-dermatology_20180524143825697.jpg",
+    "specialization": "specialist in Dermatology, cosmetic skin care and Laser.",
+    "address": "El-Zaitoun : Samir Elsawy Street",
+    "fees": "250"
+  },
+  {
+    "name": "Amira El Maghraby",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa7add8/Profile/150/doctor-amira-el-maghraby-dermatology_20221006140725609.jpg",
+    "specialization": "cosultante of dermatology",
+    "address": "Fleming : Tmazeen St",
+    "fees": "250"
+  },
+  {
+    "name": "Azza Atwa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT79dc77/Profile/150/doctor-azza-atwa-dermatology_20230125130217630.jpg",
+    "specialization": "dermatologist and laser specialist",
+    "address": "El-Mansoura : 187 elgomhoria(elbahr)",
+    "fees": "220"
+  },
+  {
+    "name": "Azza Atwa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT79dc77/Profile/150/doctor-azza-atwa-dermatology_20230125130217630.jpg",
+    "specialization": "dermatologist and laser specialist",
+    "address": "El-Mansoura : 187 elgomhoria(elbahr)",
+    "fees": "220"
+  },
+  {
+    "name": "Enas Ghoraba",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe59c72/Profile/150/doctor-enas-ghoraba-dermatology_20200426192811561.jpg",
+    "specialization": "Consultant dermatologist and laser",
+    "address": "Tanta : Al-Alfy Street with Taha Al-Hakim",
+    "fees": "150"
+  },
+  {
+    "name": "Gamal Hashim",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT10827e24dd930cae/Profile/150/gamal-hashim-dermatology_20211128132617195.jpg",
+    "specialization": "Professor of Dermatology and Andrology",
+    "address": "Madinaty : Medical Centre one",
+    "fees": "500"
+  },
+  {
+    "name": "Yasmin Tawfik",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd0de6a/Profile/150/doctor-yasmin-tawfik-dermatology_20181107153819621.jpg",
+    "specialization": "Lecturer and Consultant of Dermatology, Venereology, Cosmotology and Laser",
+    "address": "Assiut city : 26th July",
+    "fees": "210"
+  },
+  {
+    "name": "Ahmed Fawzy Ismail Ismail",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6eca1d/Profile/150/doctor-ahmed-fawzy-ismaail-ismaail-dermatology_20190917121958210.jpg",
+    "specialization": "Lecturer and Consultant dermatology and reproductive medicine and masculinity and male infertility teacher at the Faculty of Medicine Mansoura.",
+    "address": "El-Mansoura : el tomehy square elmadina el monwra tower",
+    "fees": "300"
+  },
+  {
+    "name": "Attia Abdalla Attia",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT499830/Profile/150/doctor-attia--abdalla-attia-dermatology_20191216123821391.jpg",
+    "specialization": "Professor of Dermatology and Andrology- Al Azhar Faculty of Medicine",
+    "address": "West El-Balad : Mohamed farid - Abdein",
+    "fees": "400"
+  },
+  {
+    "name": "Elham Fouad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT557524/Profile/150/elham-fouad-dermatology_20200113152758707.jpg",
+    "specialization": "Consultant of dermatology and Cosmoderma - El Hod el Marsood Hospital",
+    "address": "Hadayek El-Ahram : Street 5 , A district",
+    "fees": "300"
+  },
+  {
+    "name": "Elham Fouad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf30f8f707bccda33/Profile/150/doctor-elham-fouad-dermatology-1_20220726155539522.jpg",
+    "specialization": "Consultant of Dermatology and Cosmetic Dermatology - El Hod el Marsood Hospital",
+    "address": "El-Haram : Alharam street",
+    "fees": "300"
+  },
+  {
+    "name": "Mohamed El Akkad",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTf3797a0c4bd420fd/Profile/150/doctor-mohamed-el-akkad-dermatology-2_20220901141511804.jpg",
+    "specialization": "Consultant of Dermatology and Andrology - MD Dermatology & Andrology, Faculty of Medicine Kasr Alainy Cairo University",
+    "address": "Nasr City : Hasan Al Maamon Street",
+    "fees": "300"
+  },
+  {
+    "name": "Yasser El Gohary",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT33e01d91501a3aea/Profile/150/doctor-yasser-el-gohary-dermatology_20210901183630995.jpg",
+    "specialization": "Professor and Head of the department of dermatology and cosmetology",
+    "address": "El-Maadi : street 9",
+    "fees": "600"
+  },
+  {
+    "name": "Ayten Rassem",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT610582/Profile/150/doctor-ayten-rassem-dermatology_20200902103810145.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "Bulkly : Al-Hedaya Mosque Street",
+    "fees": "200"
+  },
+  {
+    "name": "Nora taher",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT7d1ad914b2f85674/Profile/150/doctor-nora-taher-dermatology_20220203010105329.jpg",
+    "specialization": "Consultant of Dermatology and Andrology - Alazhar",
+    "address": "Nasr City : ali ameen from mostafa elnahas",
+    "fees": "300"
+  },
+  {
+    "name": "Sherif Refaat Ismael",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd801fb/Profile/150/sherif-refaat-ismael--dermatology_20191103163146481.jpg",
+    "specialization": "Consultant of Dermatology, Male Infertility Genital Dermatology and Sexual Health",
+    "address": "New Cairo : North Tesseen Street, Cairo",
+    "fees": "400"
+  },
+  {
+    "name": "Nahla Maher",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT74012bc2fea293ec/Profile/150/nahla-maher-dermatology_20230219125320698.jpg",
+    "specialization": "Lecturer and Counsltant in Dermatolgy and Cosmetology-Kasr Al-Aini-Cairo University",
+    "address": "Hadayek El-Ahram : Eltharwa elmadania street-Gate 1",
+    "fees": "300"
+  },
+  {
+    "name": "Abeer Fouda",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT20765f/Profile/150/doctor-abeer-fouda-dermatology_20190106152709857.jpg",
+    "specialization": "Consultant in Dermatology , Cosmetic Dermatology and Laser- MD in Dermatology",
+    "address": "El-Mohandessin : el Batal Ahmed Abdel Aziz Street",
+    "fees": "350"
+  },
+  {
+    "name": "Maha Ezzat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT1346a80eb21710ef/Profile/150/doctor-maha-ezzat-dermatology_20210831132302057.jpg",
+    "specialization": "Cosultant of Dermatology ,Aesthetic Medicine and Laser",
+    "address": "El-Maadi : street9",
+    "fees": "600"
+  },
+  {
+    "name": "Nadia Badawy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcbd3363dee51ddee/Profile/150/nadia-badawy-dermatology_20210915224501442.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "New Cairo : City center",
+    "fees": "750"
+  },
+  {
+    "name": "Adel Emam",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa3fe6c/Profile/150/adel-emam-dermatology_20181219144148854.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "Heliopolis : Nehro,Heliopolis",
+    "fees": "500"
+  },
+  {
+    "name": "Rana Fathy Hilal",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT78ef19/Profile/150/rana-fathy-hilal-dermatology_20191119133321780.jpg",
+    "specialization": "Dermatologist Consultant and Assistant Professor Alkasr Alainy",
+    "address": "El-Sheikh Zayed : -Twin towers-Elmehwar Elmarkazi-besides Majjara Mall and Capital Business park",
+    "fees": "400"
+  },
+  {
+    "name": "Light Clinic Dr Ahmad Shoreibah",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTb80941/Profile/150/center-light-clinic-dr-radwa-sarhan-dermatology_20180902115515.jpg",
+    "specialization": "Consultant of Dermatology,Cosmetology and Laser",
+    "address": "Heliopolis : Mohammed El Dahen",
+    "fees": "650"
+  },
+  {
+    "name": "Doaa Talaat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3a3ca10e866fd5d/Profile/150/doaa-talaat-dermatology_20230110180957161.jpg",
+    "specialization": "Consultant of dermatology and cosmetology - Ain Shams Medicine",
+    "address": "Nasr City : Jamal Hamdan Street from Mithaq Street, Zahraa, Nasr City",
+    "fees": "400"
+  },
+  {
+    "name": "samar Abdulla",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa971e5/Profile/150/samar-abdulla-dermatology_20181219143545389.jpg",
+    "specialization": "Professor of Dermatology",
+    "address": "Heliopolis : Cleopatra St",
+    "fees": "400"
+  },
+  {
+    "name": "Assem Farag",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc5ba97/Profile/150/doctor-assem-farag-dermatology_20191216000522172.jpg",
+    "specialization": "Professor Of Dermatology and Andrology - Benha University",
+    "address": "New Cairo : mohamed nagieb Axis",
+    "fees": "550"
+  },
+  {
+    "name": "Assem Farag",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTceab2f/Profile/150/doctor-assem-farag-dermatology-1_20191216000314876.jpg",
+    "specialization": "Professor Of Dermatology and Andrology - Benha University",
+    "address": "Heliopolis : ramsees st",
+    "fees": "550"
+  },
+  {
+    "name": "Azza Gabel",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTe5052e8c48a41b3d/Profile/150/doctor-azza-gabel-dermatology_20220117211928267.jpg",
+    "specialization": "Consultant of Dermatology , Cosmetic and Laser - Cairo University",
+    "address": "El-Maadi : zahraa el maadi street - elite tower",
+    "fees": "300"
+  },
+  {
+    "name": "Heba Gawdat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT575fd06b63c7aea1/Profile/150/heba--gawdat-dermatology_20220123133104558.jpg",
+    "specialization": "Professor of Dermatology, specialized in Vitiligo & Psoriasis, Dermoscopy Faculty of Medicine Cairo University",
+    "address": "El-Maadi : Nile Cornishe",
+    "fees": "500"
+  },
+  {
+    "name": "Amira Sabry",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd8f09f/Profile/150/amira-sabry-andrology-and-male-infertility_20200910152850571.jpg",
+    "specialization": "consultant of dermatology",
+    "address": "El-Sheikh Zayed : 13 neibourhood",
+    "fees": "300"
+  },
+  {
+    "name": "Nihal Nagy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd70b2d/Profile/150/nihal-nagy-dermatology_20200116111000148.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "New Cairo : North Tesseen Street, Cairo",
+    "fees": "400"
+  },
+  {
+    "name": "Dina Saady",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3df7d6854e3e46a6/Profile/150/dina--saady-dermatology_20220412115820630.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Maadi : Nile Corniche Street,",
+    "fees": "500"
+  },
+  {
+    "name": "Mona Fahmy Mahmoud",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd2c4e9/Profile/150/doctor-mona-fahmy-mahmoud-dermatology_20201021120716564.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Seyouf : Omar Makrm St",
+    "fees": "140"
+  },
+  {
+    "name": "Osama Rashed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT57782dba53be9bae/Profile/150/doctor-osama-rashed-dermatology_20220304151850964.jpg",
+    "specialization": "Consultant of Dermatology and Andrology",
+    "address": "Imbaba : Talaat Harb street -Tahrir City",
+    "fees": "200"
+  },
+  {
+    "name": "Eman Ahmed",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT205801104b51a9a0/Profile/150/eman-ahmed--dermatology_20210826152516239.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "6th of October : 6 october",
+    "fees": "200"
+  },
+  {
+    "name": "Yousra Azzazi",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc2479b02667e72a9/Profile/150/yousra-azzazi-dermatology_20210119082444906.jpg",
+    "specialization": "Consultant and lecturer of dermatology, Cairo university",
+    "address": "El-Sheikh Zayed : Mouez Mall 2-District 12-behind CIC University-and above Sara Elbatta Milk Shop-",
+    "fees": "300"
+  },
+  {
+    "name": "Shadwa Gamil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTefaa0094bf6684fc/Profile/150/doctor-shadwa-gamil-dermatology_20210528225137509.jpg",
+    "specialization": "consultant of dermatology",
+    "address": "Faisal : faisal",
+    "fees": "300"
+  },
+  {
+    "name": "Yasmien Rafaat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTfbf7da/Profile/150/doctor-yasmien-rafaat-dermatology_20200916040913770.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "Helwan : Al maraghy street",
+    "fees": "200"
+  },
+  {
+    "name": "Hany AbdElal Elzayat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT19f4cb/Profile/150/doctor-hany-elzayat-dermatology_20191111110615237.jpg",
+    "specialization": "Consultant in Dermatology and Infertility",
+    "address": "Helwan : Raghb Basha Street",
+    "fees": "300"
+  },
+  {
+    "name": "Nermein Al Aishy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc027b1f22d91f86a/Profile/150/nermein-al-aishy-dermatology_20220621162149294.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "El-Maadi : Nile Corniche Street,",
+    "fees": "500"
+  },
+  {
+    "name": "Dina EL Shrkawy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTcba07c3687535b65/Profile/150/dina-el-shrkawy-dermatology_20211219183449229.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "6th of October : Cleopatra 6th of October -Majara",
+    "fees": "650"
+  },
+  {
+    "name": "Eman Shaalan",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTefebcedabee88e9a/Profile/150/eman--shaalan-dermatology_20221110145144126.jpg",
+    "specialization": "Consultant of dermatology, dermatology and laser in Al-Qasr Al-Ainy.",
+    "address": "6th of October : mehwar el markazi",
+    "fees": "300"
+  },
+  {
+    "name": "Mohamed Mahmoud Refaat",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT6e2b36a6f032a44/Profile/150/mohamed-mahmoud-refaat-dermatology_20221116152503747.jpg",
+    "specialization": "Consultant of dermatology reproductive, genital, dermatological and laser diseases",
+    "address": "Nasr City : Tenth District Square 7 Ahmed Al Zomor Street third floor Clinic 8",
+    "fees": "300"
+  },
+  {
+    "name": "mahmoud belal",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3b6ff61f38c23403/Profile/150/mahmoud-belal-dermatology_20220802190310213.jpg",
+    "specialization": "Consultant of natural hair transplantation with FUE technique - Kasr Al-Ainy Medicine",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Shimaa Mohamed Adel",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT13ddd110690fefc9/Profile/150/doctor-shimaa-mohamed-adel-dermatology_20221201125256511.jpg",
+    "specialization": "Consultant dermatology and laser cosmetology/teacher at the National Research Center",
+    "address": "El-Sheikh Zayed : 3A The first stage , 26th of July Corridor, Al-Khamayel City, Gate 4",
+    "fees": "400"
+  },
+  {
+    "name": "Mohamed Hany ElBakry",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT5ab86ac3b9184c39/Profile/150/mohamed-hany-elbakry-dermatology_20210311085430454.jpg",
+    "specialization": "Consultant Dermatology And Venereology",
+    "address": "El-Mansoura : Banque Misr street-Elanwar Elmohamdia Building",
+    "fees": "250"
+  },
+  {
+    "name": "Safaa Essa",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT697a9e0a83ce0fad/Profile/150/doctor-safaa-essa-dermatology_20210204161817619.jpg",
+    "specialization": "specialist of dermatology",
+    "address": "El-Ismailia city : shebeen el koom",
+    "fees": "150"
+  },
+  {
+    "name": "Mostafa Hamdy",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTd96338/Profile/150/mostafa-hamdy-dermatology_20200701173240051.jpg",
+    "specialization": "Consultant of Dermatology",
+    "address": "New Cairo : North Tesseen Street, Cairo",
+    "fees": "400"
+  },
+  {
+    "name": "Mariz Nabil",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT4b4365a110026abf/Profile/150/mariz-nabil-dermatology_20210508111931406.jpg",
+    "specialization": "Dermatology Specialist",
+    "address": "Tanta : Elbahr St",
+    "fees": "150"
+  },
+  {
+    "name": "Mai Abou Zekry",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT3c8337/Profile/150/mai-abou-zekry-dermatology_20181106140123796.jpg",
+    "specialization": "Aesthetic dermatologist & laser specialist",
+    "address": "New Cairo : street 15 from axis 79",
+    "fees": "400"
+  },
+  {
+    "name": "Gaber Kafiiii",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT33e6d4/Profile/150/center-gaber-kafi-dermatology_20220227054426486.jpg",
+    "specialization": "Hddhhdh",
+    "address": "Banha : 11",
+    "fees": "1,100"
+  },
+  {
+    "name": "Mohamed Amr Nada",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTc5985eb08dc60725/Profile/150/mohamed-amr-nada-dermatology_20210411125639407.jpg",
+    "specialization": "Consultant of Dermatology , genital and laser",
+    "address": "6th of October : 6 october",
+    "fees": "300"
+  },
+  {
+    "name": "Rana Ezz El din",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENT42074ff6b5175783/Profile/150/rana--ezz-el-din--dermatology_20220202183846032.jpg",
+    "specialization": "Specialist of Dermatology, Andrology, cosmetology and Laser",
+    "address": "New Cairo : north teseen street",
+    "fees": "400"
+  },
+  {
+    "name": "Asmaa ElShaer",
+    "image": "https://cdn-dr-images.vezeeta.com/Assets/Images/SelfServiceDoctors/ENTa44e64/Profile/150/asmaa-elshaer-dermatology_20200206002322274.jpg",
+    "specialization": "Consultant of skin, beauty and laser, Faculty of Medicine, Ain Shams University.",
+    "address": "El-Sheikh Zayed : Mouez Mall 2-District 12-behind CIC University-and above Sara Elbatta Milk Shop-",
+    "fees": "300"
+  }
+]
+}
